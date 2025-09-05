@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Prakash+Jha;Full+Stack+MEAN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Soumyaranjan;Full+Stack+MERN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
 </p>
 
 <!-- Cool Divider -->
