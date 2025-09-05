@@ -8,6 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 </p>
 
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+
 ## 🚀 About Me
 💡 **A passionate Full Stack Developer specialized in MERN Stack & Tailwind CSS.**  
 🌍 **Building high-performance, scalable, and responsive web applications.**  
