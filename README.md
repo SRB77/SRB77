@@ -12,7 +12,7 @@
 💡 **A passionate Full Stack Developer specialized in MERN Stack & Tailwind CSS.**  
 🌍 **Building high-performance, scalable, and responsive web applications.**  
 🚀 **Exploring Javaasript,Node and AI-powered applications.**  
-💬 **Ask me about JavaScript, Angular, Node.js, and more!**   
+💬 **Ask me about JavaScript, React, Node.js, and more!**   
 
 ---
 
